@@ -1,0 +1,2 @@
+# MACHINE-LEARNING-BASED-LOAN-DEFAULTER-PREDICTION-FOR-LENDING-CLUB
+ Predict loan defaulters using ML! Utilize Lending Club dataset for training. Apply machine learning algorithms to analyze borrower data, credit history, and other features. Generate accurate predictions to mitigate risk and make informed lending decisions. Enhance loan portfolio performance! 💰🔍 #LoanDefaulterPrediction #ML #LendingClub
